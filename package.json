@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "chai": "^4.2.0",
-    "mocha": "^6.2.1",
+    "mocha": "^10.2.0",
     "rewiremock": "^3.13.7",
     "sinon": "^7.5.0"
   }
